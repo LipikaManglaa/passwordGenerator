@@ -28,8 +28,7 @@ To install this code, download the zip file, or use GitHub's guidelines to clone
     * This textarea will display the users password once it is generated
 
 
-* A Copy button 
-    * This will copy the users password to the user's devices clipboard
+
 
 ## User Story
 
