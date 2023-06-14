@@ -26,11 +26,11 @@ generateBtn.addEventListener('click', () => {
 
   
   password.value = generatePassword()
+  
 
 })
 
 
-let passwordGenerate = [];
 let passwordString;
 let passwordChoose;
 let userInput, userInputNumber, userInputCharacter, userInputLowercase, userInputUppercase, selection;
@@ -134,6 +134,8 @@ function generatePassword() {
 
   }
 
+  
+let passwordGenerate = [];
   // Single input from user ends here
 
   // password variable is an array placeholder for user generated amount of length
