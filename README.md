@@ -9,6 +9,7 @@ This application emphasizes the use of Javascript to generate a random, secure p
 This project has been deployed to GitHub Pages. To get this project up and running, you can follow the deployment link. Or, download the sources files to use this as a template.
 
 1)https://github.com/LipikaManglaa/passwordGenerator.git
+2)https://lipikamanglaa.github.io/passwordGenerator/
 ### Prerequisites
 
 To install this application, you will need a text editor. I recommend Visual Studio Code. 
